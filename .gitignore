@@ -1,0 +1,85 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+env/
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# FastAPI / Gino-specific
+# SQLite database files (if applicable)
+*.db
+*.sqlite3
+
+# Log files
+*.log
+*.pot
+
+# Local development files
+*.local
+.vscode/
+.idea/
+
+# Test and coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Python packaging
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Mypy
+.mypy_cache/
+
+# Profiling data
+.prof
+
+# Temporary files
+*.temp
+*.tmp
+*.bak
+*.swp
+*.swo
+~$
+
+# Caches
+*.cache
+.cache/
+*.log
+logs/
